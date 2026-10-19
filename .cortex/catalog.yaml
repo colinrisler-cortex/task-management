@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "task-management"
+  x-cortex-tag: "task-management"
+  x-cortex-description: "Daily task assignment and completion tracking"
+  x-cortex-owners:
+    - type: group
+      name: "Store Digital Services Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001303"
+    apm_name: "Store Communications & Task Management"
+    cost_center: "CC-4311"
